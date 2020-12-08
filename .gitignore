@@ -1,0 +1,9 @@
+.idea/
+.gradle/
+build/
+.allure/
+allure-results/
+*.iml
+*.ipr
+*.iws
+**/*.DS_Store

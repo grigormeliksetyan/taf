@@ -1,0 +1,3 @@
+rootProject.name = 'taf'
+include 'core'
+include 'typicode'

@@ -1,0 +1,9 @@
+dependencies {
+    testCompile project(":core")
+}
+
+test {
+    useJUnitPlatform() {
+    }
+    testLogging.showStandardStreams = true
+}
